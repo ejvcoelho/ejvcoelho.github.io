@@ -55,3 +55,11 @@ section#corpo {
 footer#rodape {
     text-align: center;
 }
+
+/*formatando a aparência do feed últmios posts*/
+#feed1 {
+ text-decoratoin: none;   
+}
+
+
+
